@@ -1,0 +1,5 @@
+{
+  "name": "Total War: Warhammer 3 Faction Picker",
+  "description": "A questionnaire-based application to help players decide which Warhammer 3 Total War faction to play next based on their playstyle preferences.",
+  "requestFramePermissions": []
+}
